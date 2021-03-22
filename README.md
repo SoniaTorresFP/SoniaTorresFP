@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soniatt93&label=Profile%20views&color=0e75b6&style=flat-square" alt="soniatt93" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soniatt93&label=Profile%20views&color=0e75b6&style=flat-square" alt="soniatorresdev" /> </p>
 <h1 align="center">Hi there, I'm Sonia👋</h1>
 
 <p align="center">Full-Stack Developer | Android Developer</p>
